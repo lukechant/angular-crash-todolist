@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Notes
 
-I've had to correct a few issues re typing as there seems to be differecnes between the way this worked in 2019 and the way it works now, possibly type script linting?
+I've had to correct a few issues re typing as there seems to be differences between the way this worked in 2019 and the way it works now, possibly type script linting?
 
 ## Development server
 
